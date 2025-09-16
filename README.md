@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Hey 👋 Nice to see you</h3>
+<h2 align="left">Hey 👋 Nice to see you</h2>
 
 ###
 ![Header](./img/banner.png)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">I code with</h4>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Connect with me</h4>
+<h3 align="left">Connect with me</h3>
 
 ###
 
